@@ -12,7 +12,7 @@ print("start a new terminal")
 print("go to my site: cd mysite")
 print(">python manage.py startapp myapp")
 print("app will be creted shortly!")
-print("test")
+print("test!!!")
 
 
 
